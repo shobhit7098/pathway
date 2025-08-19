@@ -16,3 +16,5 @@ __pycache__/
 .yarn
 *.csv
 !output_stream.csv
+config.bat
+node_modules
